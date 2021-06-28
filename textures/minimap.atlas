@@ -1,0 +1,48 @@
+
+minimap.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+N
+  rotate: false
+  xy: 2, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+boss
+  rotate: false
+  xy: 61, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+current
+  rotate: false
+  xy: 120, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+object
+  rotate: false
+  xy: 179, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+unvisited
+  rotate: false
+  xy: 238, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+visited
+  rotate: false
+  xy: 297, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

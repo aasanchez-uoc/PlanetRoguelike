@@ -1,0 +1,468 @@
+
+enemies.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrow
+  rotate: false
+  xy: 132, 14
+  size: 91, 31
+  orig: 91, 31
+  offset: 0, 0
+  index: -1
+behead_skeleton
+  rotate: false
+  xy: 608, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 0
+behead_skeleton
+  rotate: false
+  xy: 810, 788
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 1
+behead_skeleton
+  rotate: false
+  xy: 760, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 2
+behead_skeleton
+  rotate: false
+  xy: 962, 788
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 3
+behead_skeleton_die
+  rotate: false
+  xy: 912, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 0
+behead_skeleton_die
+  rotate: false
+  xy: 1114, 788
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 1
+behead_skeleton_die
+  rotate: false
+  xy: 1064, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 2
+skeleton_die
+  rotate: false
+  xy: 1064, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 2
+behead_skeleton_die
+  rotate: false
+  xy: 944, 324
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 3
+skeleton_die
+  rotate: false
+  xy: 944, 324
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 3
+behead_skeleton_die
+  rotate: false
+  xy: 1266, 788
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 4
+skeleton_die
+  rotate: false
+  xy: 1266, 788
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 4
+behead_skeleton_die
+  rotate: false
+  xy: 1216, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 5
+skeleton_die
+  rotate: false
+  xy: 1216, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 5
+behead_skeleton_die
+  rotate: false
+  xy: 1096, 324
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 6
+skeleton_die
+  rotate: false
+  xy: 1096, 324
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 6
+bow_skeleton_attack
+  rotate: false
+  xy: 2, 788
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 0
+bow_skeleton_attack
+  rotate: false
+  xy: 2, 556
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 1
+bow_skeleton_attack
+  rotate: false
+  xy: 204, 788
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 2
+bow_skeleton_attack
+  rotate: false
+  xy: 2, 324
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 3
+bow_skeleton_attack
+  rotate: false
+  xy: 204, 556
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 4
+bow_skeleton_attack
+  rotate: false
+  xy: 406, 788
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 5
+bow_skeleton_attack
+  rotate: false
+  xy: 2, 92
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 6
+bow_skeleton_attack
+  rotate: false
+  xy: 204, 324
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 7
+bow_skeleton_attack
+  rotate: false
+  xy: 406, 556
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 8
+bow_skeleton_attack
+  rotate: false
+  xy: 608, 788
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 9
+bow_skeleton_attack
+  rotate: false
+  xy: 204, 92
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: 10
+bow_skeleton_idle
+  rotate: false
+  xy: 1418, 788
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 0
+bow_skeleton_idle
+  rotate: false
+  xy: 1368, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 1
+bow_skeleton_idle
+  rotate: false
+  xy: 1248, 324
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 2
+bow_skeleton_idle
+  rotate: false
+  xy: 1570, 788
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 3
+bullet
+  rotate: false
+  xy: 926, 236
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dron_gun_fire
+  rotate: false
+  xy: 406, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+dron_gun_fire
+  rotate: false
+  xy: 1824, 658
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+dron_gun_fire
+  rotate: false
+  xy: 536, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+dron_gun_fire
+  rotate: false
+  xy: 666, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+dron_gun_idle
+  rotate: false
+  xy: 796, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+dron_gun_idle
+  rotate: false
+  xy: 1704, 426
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+dron_gun_idle
+  rotate: false
+  xy: 1704, 296
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+dron_gun_idle
+  rotate: false
+  xy: 944, 194
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+fly
+  rotate: false
+  xy: 2, 47
+  size: 128, 43
+  orig: 128, 43
+  offset: 0, 0
+  index: 0
+fly
+  rotate: false
+  xy: 1824, 613
+  size: 128, 43
+  orig: 128, 43
+  offset: 0, 0
+  index: 1
+fly
+  rotate: false
+  xy: 1074, 279
+  size: 128, 43
+  orig: 128, 43
+  offset: 0, 0
+  index: 2
+fly
+  rotate: false
+  xy: 2, 2
+  size: 128, 43
+  orig: 128, 43
+  offset: 0, 0
+  index: 3
+fly_eye
+  rotate: false
+  xy: 132, 47
+  size: 128, 43
+  orig: 128, 43
+  offset: 0, 0
+  index: 0
+fly_eye
+  rotate: false
+  xy: 1824, 568
+  size: 128, 43
+  orig: 128, 43
+  offset: 0, 0
+  index: 1
+fly_eye
+  rotate: false
+  xy: 1074, 234
+  size: 128, 43
+  orig: 128, 43
+  offset: 0, 0
+  index: 2
+fly_eye
+  rotate: false
+  xy: 1204, 279
+  size: 128, 43
+  orig: 128, 43
+  offset: 0, 0
+  index: 3
+flymon1
+  rotate: false
+  xy: 1954, 722
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+flymon1
+  rotate: false
+  xy: 1954, 722
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+flymon1
+  rotate: false
+  xy: 1954, 656
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+robot
+  rotate: false
+  xy: 536, 254
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: 0
+robot_gun
+  rotate: false
+  xy: 406, 254
+  size: 128, 300
+  orig: 128, 300
+  offset: 0, 0
+  index: 0
+robot_nohead
+  rotate: false
+  xy: 638, 254
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: 0
+robot_nohead
+  rotate: false
+  xy: 638, 254
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: 3
+robot_nohead
+  rotate: false
+  xy: 638, 254
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: 4
+robot_nohead
+  rotate: false
+  xy: 638, 254
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: 5
+robot_nohead
+  rotate: false
+  xy: 740, 254
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: 1
+robot_nohead
+  rotate: false
+  xy: 842, 254
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: 2
+skeleton_die
+  rotate: false
+  xy: 1520, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 0
+skeleton_die
+  rotate: false
+  xy: 1400, 324
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 1
+skeleton_idle
+  rotate: false
+  xy: 1722, 788
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 0
+skeleton_idle
+  rotate: false
+  xy: 1672, 556
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 1
+skeleton_idle
+  rotate: false
+  xy: 1552, 324
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 2
+skeleton_idle
+  rotate: false
+  xy: 1874, 788
+  size: 150, 230
+  orig: 150, 230
+  offset: 0, 0
+  index: 3

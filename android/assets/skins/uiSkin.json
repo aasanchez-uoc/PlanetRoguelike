@@ -1,0 +1,31 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: { default-font: { file: cubellan-32.fnt },
+											kallamar-52-font :{ file: orbitron-black-52.fnt }},
+com.badlogic.gdx.graphics.Color: {
+	green: { a: 1, b: 0, g: 1, r: 0 },
+	soft_blue : {hex: 81edf9},
+	white: { a: 1, b: 1, g: 1, r: 1 },
+	red: { a: 1, b: 0, g: 0, r: 1 },
+	black: { a: 1, b: 0, g: 0, r: 0 },
+	grey:{hex: 848484},
+	orange:{hex: DBA901},
+	white-font:{hex: FFF8E8},
+	nada: { a: 0, b: 1, g: 1, r: 1 }
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+    default: { down: buttonLong_blue_pressed, up: buttonLong_blue, font: kallamar-52-font, fontColor:white, disabledFontColor: grey, disabled: buttonLong_grey },
+},
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+    default: { font: default-font, fontColor: green },
+    title: { font: default-font, fontColor: white-font },
+	red-kal: {font: kallamar-52-font, fontColor: red}
+},
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: { background: panel_blue, titleFont: kallamar-52-font, titleFontColor: red, stageBackground:barBack_verticalMid}
+},
+com.arcadiogames.planetadventure.Screens.textMessage$messageStyle: {
+	default: { background: panel_blue, titleFont: kallamar-52-font, titleFontColor: green, descriptionFont: default-font, descriptionFontColor: soft_blue, stageBackground:barBack_verticalMid}
+}
+
+}

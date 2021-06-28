@@ -1,0 +1,132 @@
+
+items.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bionic_eye
+  rotate: false
+  xy: 2, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+energetic_drink
+  rotate: false
+  xy: 2, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+heavy_bullet
+  rotate: false
+  xy: 254, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+horseshoe
+  rotate: false
+  xy: 2, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ia
+  rotate: false
+  xy: 254, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+jetpack
+  rotate: false
+  xy: 506, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+laser_cannon
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+lasergun
+  rotate: false
+  xy: 254, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+magnifying_lens
+  rotate: false
+  xy: 506, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+mirror
+  rotate: false
+  xy: 758, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+prism
+  rotate: false
+  xy: 254, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+robotic_hand
+  rotate: false
+  xy: 506, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+rocket_boots
+  rotate: false
+  xy: 758, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+shotgun
+  rotate: false
+  xy: 1010, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+space_berries
+  rotate: false
+  xy: 1262, 838
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+syringe_blue
+  rotate: false
+  xy: 506, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+syringe_red
+  rotate: false
+  xy: 758, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+syringe_yellow
+  rotate: false
+  xy: 1010, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1

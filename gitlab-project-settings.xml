@@ -1,0 +1,34 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.com" />
+    <option name="token" value="zVbFjeCYU_WYYDkeEWtA" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/anarcadio/dungeonadventure.git" />
+          <option name="name" value="DungeonAdventure" />
+          <option name="namespace" value="anarcadio" />
+          <option name="sshUrl" value="git@gitlab.com:anarcadio/dungeonadventure.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/anarcadio/hexpaton.git" />
+          <option name="name" value="hexpaton" />
+          <option name="namespace" value="anarcadio" />
+          <option name="sshUrl" value="git@gitlab.com:anarcadio/hexpaton.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/anarcadio/planetadv.git" />
+          <option name="name" value="PlanetAdv" />
+          <option name="namespace" value="anarcadio" />
+          <option name="sshUrl" value="git@gitlab.com:anarcadio/planetadv.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/Meticulous/hexpaton.git" />
+          <option name="name" value="hexpaton" />
+          <option name="namespace" value="Meticulous" />
+          <option name="sshUrl" value="git@gitlab.com:Meticulous/hexpaton.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>

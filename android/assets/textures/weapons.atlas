@@ -1,0 +1,531 @@
+
+weapons.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+default_idle
+  rotate: false
+  xy: 2, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+default_jump
+  rotate: false
+  xy: 2, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+default_walk
+  rotate: false
+  xy: 2, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+default_walk
+  rotate: false
+  xy: 2, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+default_idle
+  rotate: false
+  xy: 2, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+default_idle
+  rotate: false
+  xy: 154, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+default_idle
+  rotate: false
+  xy: 2, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+default_idle
+  rotate: false
+  xy: 154, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+default_idle
+  rotate: false
+  xy: 306, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+default_jump
+  rotate: false
+  xy: 2, 606
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+default_jump
+  rotate: false
+  xy: 154, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+default_walk
+  rotate: false
+  xy: 306, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+default_walk
+  rotate: false
+  xy: 306, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+default_walk
+  rotate: false
+  xy: 458, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+default_walk
+  rotate: false
+  xy: 458, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+lasercannon_idle
+  rotate: false
+  xy: 2, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+lasercannon_jump
+  rotate: false
+  xy: 2, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+lasercannon_walk
+  rotate: false
+  xy: 2, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+lasercannon_walk
+  rotate: false
+  xy: 2, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+lasercannon_idle
+  rotate: false
+  xy: 154, 606
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+lasercannon_idle
+  rotate: false
+  xy: 306, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+lasercannon_idle
+  rotate: false
+  xy: 458, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+lasercannon_idle
+  rotate: false
+  xy: 610, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+lasercannon_idle
+  rotate: false
+  xy: 2, 2
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+lasercannon_jump
+  rotate: false
+  xy: 154, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+lasercannon_jump
+  rotate: false
+  xy: 306, 606
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+lasercannon_walk
+  rotate: false
+  xy: 458, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+lasercannon_walk
+  rotate: false
+  xy: 458, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+lasercannon_walk
+  rotate: false
+  xy: 610, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+lasercannon_walk
+  rotate: false
+  xy: 610, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+lasergun_idle
+  rotate: false
+  xy: 762, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+lasergun_jump
+  rotate: false
+  xy: 762, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+lasergun_walk
+  rotate: false
+  xy: 762, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+lasergun_walk
+  rotate: false
+  xy: 762, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+lasergun_idle
+  rotate: false
+  xy: 154, 2
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+lasergun_idle
+  rotate: false
+  xy: 306, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+lasergun_idle
+  rotate: false
+  xy: 458, 606
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+lasergun_idle
+  rotate: false
+  xy: 610, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+lasergun_idle
+  rotate: false
+  xy: 762, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+lasergun_jump
+  rotate: false
+  xy: 914, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+lasergun_jump
+  rotate: false
+  xy: 306, 2
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+lasergun_walk
+  rotate: false
+  xy: 458, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+lasergun_walk
+  rotate: false
+  xy: 458, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+lasergun_walk
+  rotate: false
+  xy: 610, 606
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+lasergun_walk
+  rotate: false
+  xy: 610, 606
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+revolver_idle
+  rotate: false
+  xy: 762, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+revolver_jump
+  rotate: false
+  xy: 762, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+revolver_walk
+  rotate: false
+  xy: 762, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+revolver_walk
+  rotate: false
+  xy: 762, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+revolver_idle
+  rotate: false
+  xy: 914, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+revolver_idle
+  rotate: false
+  xy: 1066, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+revolver_idle
+  rotate: false
+  xy: 458, 2
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+revolver_idle
+  rotate: false
+  xy: 610, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+revolver_idle
+  rotate: false
+  xy: 762, 606
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+revolver_jump
+  rotate: false
+  xy: 914, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+revolver_jump
+  rotate: false
+  xy: 1066, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+revolver_walk
+  rotate: false
+  xy: 1218, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+revolver_walk
+  rotate: false
+  xy: 1218, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+revolver_walk
+  rotate: false
+  xy: 610, 2
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+revolver_walk
+  rotate: false
+  xy: 610, 2
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+shotgun_idle
+  rotate: false
+  xy: 762, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+shotgun_jump
+  rotate: false
+  xy: 762, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+shotgun_walk
+  rotate: false
+  xy: 762, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+shotgun_walk
+  rotate: false
+  xy: 762, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+shotgun_idle
+  rotate: false
+  xy: 914, 606
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+shotgun_idle
+  rotate: false
+  xy: 1066, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+shotgun_idle
+  rotate: false
+  xy: 1218, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+shotgun_idle
+  rotate: false
+  xy: 1370, 1512
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+shotgun_idle
+  rotate: false
+  xy: 762, 2
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+shotgun_jump
+  rotate: false
+  xy: 914, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+shotgun_jump
+  rotate: false
+  xy: 1066, 606
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+shotgun_walk
+  rotate: false
+  xy: 1218, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+shotgun_walk
+  rotate: false
+  xy: 1218, 908
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+shotgun_walk
+  rotate: false
+  xy: 1370, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+shotgun_walk
+  rotate: false
+  xy: 1370, 1210
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5

@@ -1,0 +1,383 @@
+
+stage.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+altar
+  rotate: false
+  xy: 2, 1338
+  size: 400, 701
+  orig: 400, 701
+  offset: 0, 0
+  index: -1
+door_anim
+  rotate: false
+  xy: 2, 936
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 0
+door_open
+  rotate: false
+  xy: 2, 936
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 7
+door_anim
+  rotate: false
+  xy: 2, 534
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 1
+door_anim
+  rotate: false
+  xy: 2, 132
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 2
+door_open
+  rotate: false
+  xy: 404, 1639
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 0
+door_open
+  rotate: false
+  xy: 806, 1639
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 1
+door_open
+  rotate: false
+  xy: 1208, 1639
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 2
+door_open
+  rotate: false
+  xy: 1610, 1639
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 3
+door_open
+  rotate: false
+  xy: 404, 1237
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 4
+door_open
+  rotate: false
+  xy: 404, 835
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 5
+door_open
+  rotate: false
+  xy: 404, 433
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 6
+empty_heart
+  rotate: false
+  xy: 2, 70
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 74, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+fire
+  rotate: false
+  xy: 74, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+fire
+  rotate: false
+  xy: 108, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+fire
+  rotate: false
+  xy: 108, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+fire_button
+  rotate: false
+  xy: 1208, 23
+  size: 200, 206
+  orig: 200, 206
+  offset: 0, 0
+  index: -1
+fire_button_hig
+  rotate: false
+  xy: 1410, 23
+  size: 200, 206
+  orig: 200, 206
+  offset: 0, 0
+  index: -1
+full_heart
+  rotate: false
+  xy: 2, 8
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+half_heart
+  rotate: false
+  xy: 74, 70
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1208, 533
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+idle
+  rotate: false
+  xy: 1208, 231
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+idle
+  rotate: false
+  xy: 1360, 533
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+idle
+  rotate: false
+  xy: 1360, 231
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+idle
+  rotate: false
+  xy: 1512, 331
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+idle
+  rotate: false
+  xy: 1612, 29
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+jump
+  rotate: false
+  xy: 1664, 331
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+walk
+  rotate: false
+  xy: 1664, 331
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 0
+jump_button
+  rotate: false
+  xy: 1612, 633
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jump_button_hig
+  rotate: false
+  xy: 1814, 633
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+portal_anim
+  rotate: false
+  xy: 404, 31
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 0
+portal_open
+  rotate: false
+  xy: 404, 31
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 7
+portal_anim
+  rotate: false
+  xy: 806, 1237
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 1
+portal_anim
+  rotate: false
+  xy: 1208, 1237
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 2
+portal_open
+  rotate: false
+  xy: 1610, 1237
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 0
+portal_open
+  rotate: false
+  xy: 1610, 1237
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 1
+portal_open
+  rotate: false
+  xy: 806, 835
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 2
+portal_open
+  rotate: false
+  xy: 806, 433
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 3
+portal_open
+  rotate: false
+  xy: 806, 31
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 4
+portal_open
+  rotate: false
+  xy: 1208, 835
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 5
+portal_open
+  rotate: false
+  xy: 1610, 835
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 6
+walk_button
+  rotate: false
+  xy: 1816, 431
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+walk_button_hig
+  rotate: false
+  xy: 1816, 229
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+walk_button_left
+  rotate: false
+  xy: 1764, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+stage2.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jump
+  rotate: false
+  xy: 2, 204
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+jump
+  rotate: false
+  xy: 154, 204
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+walk
+  rotate: false
+  xy: 306, 204
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 1
+walk
+  rotate: false
+  xy: 458, 204
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 2
+walk
+  rotate: false
+  xy: 610, 204
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 3
+walk
+  rotate: false
+  xy: 762, 204
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 4
+walk
+  rotate: false
+  xy: 914, 204
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: 5
+walk_button_left_hig
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
